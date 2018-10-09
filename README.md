@@ -10,7 +10,7 @@ Refer the [Self Driving Car Notebook](./Self_Driving_Car_Notebook.ipynb) for com
 Watch Real Car Running Autonoumously using this Algorithm
 https://www.youtube.com/watch?v=NJU9ULQUwng
 
-</b>A TensorFlow/Keras implementation of this [Nvidia paper](https://arxiv.org/pdf/1604.07316.pdf) with some changes.</b>
+<b>A TensorFlow/Keras implementation of this [Nvidia paper](https://arxiv.org/pdf/1604.07316.pdf) with some changes.</b>
 
 ### Conclusions from the paper
 * This demonstrated that CNNs are able to learn the entire task of lane and road following without manual decomposition into road or lane marking detection, semantic abstraction, path planning, and control.The system learns for example to detect the outline of a road without the need of explicit labels during training. 
