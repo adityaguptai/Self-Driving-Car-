@@ -18,6 +18,9 @@ https://www.youtube.com/watch?v=NJU9ULQUwng
 * The CNN is able to learn meaningful road features from a very sparse training signal (steering alone).
 * More work is needed to improve the robustness of the network, to find methods to verify the robust- ness, and to improve visualization of the network-internal processing steps.
 
+### Demo
+![alt img](./self_driving_car_gif.gif)<br>
+
 ### How to Use
 Download Dataset by Sully Chen: [https://drive.google.com/file/d/0B-KJCaaF7elleG1RbzVPZWV4Tlk/view]
 Size: 25 minutes = 25{min} x 60{1 min = 60 sec} x 30{fps} = 45,000 images ~ 2.3 GB
